@@ -5,4 +5,6 @@
 
 * Tons of bits - The Game
 
-* TyDev and AD1340 - The webpage
+* AD1340 - The webpage
+
+* TyDev - Cleaning shit and also fixing bugs with the webpage
